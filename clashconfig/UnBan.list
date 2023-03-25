@@ -1,5 +1,19 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+##Fian自定义直连区开始##
+#Atlantic-us
+IP-CIDR,216.98.11.180/8,DIRECT
+#aws-sg
+IP-CIDR,13.215.198.120/8,DIRECT
+DOMAIN-SUFFIX,qnap.com,DIRECT
+DOMAIN-SUFFIX,qlink.to,DIRECT
+DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
+DOMAIN-SUFFIX,fianw.online,DIRECT
+#DOMAIN,emby.10086.help,🚀 手动切换
+DOMAIN-SUFFIX,pqjc.site,DIRECT
+##Fian自定义直连区结束##
+
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
