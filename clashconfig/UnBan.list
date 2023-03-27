@@ -4,6 +4,7 @@
 #Atlantic-us
 #IP-CIDR,216.98.11.180/8,DIRECT
 #aws-sg
+#Disney+解析到此IP
 #IP-CIDR,13.215.198.120/8,DIRECT
 DOMAIN-SUFFIX,qnap.com,DIRECT
 DOMAIN-SUFFIX,qlink.to,DIRECT
