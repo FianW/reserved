@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 DOMAIN-SUFFIX,fianw.online,DIRECT
 DOMAIN-SUFFIX,fianw.tk,DIRECT
 #DOMAIN,emby.10086.help,🚀 手动切换
-DOMAIN-SUFFIX,pqjc.site,DIRECT
+#DOMAIN-SUFFIX,pqjc.site,DIRECT
 ##Fian自定义直连区结束##
 
 
