@@ -69,6 +69,7 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - '*.lan'
+    - '*.*.cn'
     - 'localhost.ptlogin2.qq.com'
     - 'time.*.apple.com'
     - 'time.*.com'
@@ -82,11 +83,18 @@ dns:
     - '*.battlenet.com'
     - '*.blzstatic.cn'
     - '*.battle.net'
+    - '*.apple.com'
+    - '*.apple.com.cn'
+    - '*.icloud.com'
+    - '*.icloud.com.cn'
+    - '*.qnap.com'
+    - '*.myqnapcloud.com'
+    - '*.fianw.online'
   nameserver:
     - tls://223.6.6.6:853
-    - tls://dns.pub:853
+    - tls://1.12.12.12:853
     - https://223.6.6.6/dns-query
-    - https://doh.pub/dns-query
+    - https://1.12.12.12/dns-query
   fallback:
     - https://dns.cloudflare.com/dns-query
     - https://1.1.1.1/dns-query
