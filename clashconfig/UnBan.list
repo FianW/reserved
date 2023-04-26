@@ -1,11 +1,12 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 ##Fian自定义直连区开始##
-DOMAIN-SUFFIX,qnap.com,DIRECT
-DOMAIN-SUFFIX,qlink.to,DIRECT
-DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
-DOMAIN-SUFFIX,fianw.online,DIRECT
-DOMAIN-SUFFIX,fianw.tk,DIRECT
+DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qlink.to
+DOMAIN-SUFFIX,myqnapcloud.com
+DOMAIN-SUFFIX,fianw.online
+DOMAIN-SUFFIX,fianw.tk
+DOMAIN-SUFFIX,apple-dns.net
 ##Fian自定义直连区结束##
 
 
