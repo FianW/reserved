@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,qlink.to
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,fianw.online
 DOMAIN-SUFFIX,fianw.tk
-DOMAIN-SUFFIX,apple-dns.net
+#DOMAIN-SUFFIX,apple-dns.net
 ##Fian自定义直连区结束##
 
 
