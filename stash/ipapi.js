@@ -1,4 +1,4 @@
-let url = "http://ip-api.com/json/?fields=8450015&lang=zh-CN"
+let url = "http://ip-api.com/json/?fields=61439&lang=zh-CN"
 $httpClient.get(url, function(error, response, data){
     let jsonData = JSON.parse(data)
 	let query =jsonData.query 
@@ -7,14 +7,12 @@ $httpClient.get(url, function(error, response, data){
 	let country =jsonData.country
 	let city =jsonData.city
 	let timezone =jsonData.timezone
-	let lon =jsonData.lon
-	let lat =jsonData.lat
-	let currency =jsonData.currency
+	let regionName =jsonData.regionName
     let emoji = getFlagEmoji(jsonData.countryCode)
 const params = getParams($argument);
   body = {
     title: "代理信息",
-    content: `🗺️IP：${query}\n🖥️ISP：${isp}\n#️⃣ASN：${as}\n🌍国家/地区：${emoji}${country}\n🏙城市：${city}\n🕗时区：${timezone}`,
+    content: `IP：${query}\nISP：${isp}\nASN：${as}\n城市：${city}\n区域：${regionName}\n国家/地区：${emoji}${country}\n时区：${timezone}`,
         icon: params.icon,
         "icon-color": params.color
   }
