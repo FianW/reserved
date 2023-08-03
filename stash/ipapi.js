@@ -12,7 +12,7 @@ $httpClient.get(url, function(error, response, data){
 const params = getParams($argument);
   body = {
     title: "代理信息",
-    content: `IP：${query}\nISP：${isp}\nASN：${as}\n城市：${city}\n区域：${regionName}\n国家/地区：${emoji}${country}\n时区：${timezone}`,
+    content: `➡️IP：${query}\n➡️ISP：${isp}\n➡️ASN：${as}\n城市：${city}\n➡️区域：${regionName}\n➡️国家/地区：${emoji}${country}`,
         icon: params.icon,
         "icon-color": params.color
   }
