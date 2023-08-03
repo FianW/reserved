@@ -1,5 +1,5 @@
-name: IP信息
-desc: IP信息面板
+name: IP信息@Fian
+desc: IP信息面板@Fian
 tiles:
   - name: IPxinxi
     icon: 'mappin.and.ellipse'
