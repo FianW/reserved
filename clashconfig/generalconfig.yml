@@ -92,17 +92,11 @@ dns:
     - '+.myqnapcloud.com'
     - '+.fianw.online'
   nameserver:
-    - tls://223.6.6.6:853
-    - tls://1.12.12.12:853
     - https://223.6.6.6/dns-query
     - https://1.12.12.12/dns-query
   fallback:
-    - https://dns.cloudflare.com/dns-query
     - https://1.1.1.1/dns-query
-    - tls://1.1.1.1:853
-    - tls://8.8.8.8:853
     - https://8.8.4.4/dns-query
-    - https://doh.dns.sb/dns-query
   fallback-filter:
     geoip: true
     geoip-code: CN
