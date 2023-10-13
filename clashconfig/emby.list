@@ -1,10 +1,10 @@
 #自用emby服务
 
 #treediagram
-DOMAIN,789.123456.al
+DOMAIN-SUFFIX,789.123456.al
 
 #nmemby
-DOMAIN,film.ohhhh.org
+DOMAIN-SUFFIX,film.ohhhh.org
 
 #kakoemby
 DOMAIN-SUFFIX,kakoemby.xyz
@@ -16,5 +16,5 @@ DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,misakaf.org
 
 #野兽餐厅
-DOMAIN,emby.mius.uk
-DOMAIN,emby.jiecaoyu.cn
+DOMAIN-SUFFIX,emby.mius.uk
+DOMAIN-SUFFIX,emby.jiecaoyu.cn
