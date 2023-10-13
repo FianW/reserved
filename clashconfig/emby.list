@@ -13,8 +13,7 @@ DOMAIN,www.kakoemby.xyz
 DOMAIN,play.charontv.com
 
 #misakaf
-DOMAIN,emby.misakaf.org
-DOMAIN,cdn.misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 
 #野兽餐厅
 DOMAIN,emby.mius.uk
