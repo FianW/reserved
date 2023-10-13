@@ -7,10 +7,10 @@ DOMAIN,789.123456.al
 DOMAIN,film.ohhhh.org
 
 #kakoemby
-DOMAIN,www.kakoemby.xyz
+DOMAIN-SUFFIX,kakoemby.xyz
 
 #charon
-DOMAIN,play.charontv.com
+DOMAIN-SUFFIX,charontv.com
 
 #misakaf
 DOMAIN-SUFFIX,misakaf.org
