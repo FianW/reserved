@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qlink.to
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,fianw.online
-DOMAIN-SUFFIX,fianw.tk
+#DOMAIN-SUFFIX,fianw.tk
 DOMAIN-SUFFIX,byd.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-KEYWORD,myqnapcloud
