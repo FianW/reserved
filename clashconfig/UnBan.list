@@ -5,9 +5,13 @@ DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,qlink.to
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,fianw.online
-#DOMAIN-SUFFIX,fianw.tk
 DOMAIN-SUFFIX,byd.com
+DOMAIN-SUFFIX,byd.auto
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,taobao.com
 DOMAIN-KEYWORD,myqnapcloud
 ##Fian自定义直连区结束##
 
