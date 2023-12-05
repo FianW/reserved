@@ -19,8 +19,9 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,emby.mius.uk
 DOMAIN-SUFFIX,emby.jiecaoyu.cn
 
-#SYN
+#SYN&ntrrr
 DOMAIN-SUFFIX,stream.synn.cc
+DOMAIN-SUFFIX,ntrrr.am.sb
 
 #aca emby
 DOMAIN-SUFFIX,emby.aca.best
