@@ -62,3 +62,11 @@ DOMAIN,bdtj.tagtic.cn
 
 # Hypixel Network
 DOMAIN,rewards.hypixel.net
+
+# Koodo Mobile
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,koodomobile.ca
+DOMAIN,bdtj.tagtic.cn
+
+# Hypixel Network
+DOMAIN,rewards.hypixel.net
