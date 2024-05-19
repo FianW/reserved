@@ -1,0 +1,35 @@
+#自用emby服务
+
+payload
+#treediagram
+  - DOMAIN-SUFFIX,789.123456.al
+
+#nmemby
+  - DOMAIN-SUFFIX,film.ohhhh.org
+  - DOMAIN-SUFFIX,film.hovervan.org
+
+#kakoemby
+  - DOMAIN-SUFFIX,kakoemby.xyz
+
+#charon
+  - DOMAIN-SUFFIX,charontv.com
+
+#misakaf
+  - DOMAIN-SUFFIX,misakaf.org
+
+#野兽餐厅
+  - DOMAIN-SUFFIX,emby.mius.uk
+  - DOMAIN-SUFFIX,emby-us-v4.mius.uk
+
+#ntrrr
+  - DOMAIN-SUFFIX,stream.ntrrr.top
+
+#aca emby
+  - DOMAIN-SUFFIX,emby.aca.best
+  - DOMAIN-SUFFIX,porn.aca.best
+
+#琴鸟
+  - DOMAIN-SUFFIX,lyrebirdemby.com
+
+#embyplus
+  - DOMAIN-SUFFIX,embyplus.org
