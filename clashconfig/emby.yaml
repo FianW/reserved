@@ -1,6 +1,6 @@
 #自用emby服务
 
-payload
+payload:
 #treediagram
   - DOMAIN-SUFFIX,789.123456.al
 
