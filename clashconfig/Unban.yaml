@@ -1,0 +1,72 @@
+# Unbreak 白名单 不应该被广告链接的网站
+payload
+##Fian自定义直连区开始##
+  - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-SUFFIX,qlink.to
+  - DOMAIN-SUFFIX,qlinkto.cn
+  - DOMAIN-SUFFIX,myqnapcloud.com
+  - DOMAIN-SUFFIX,myqnapcloud.cn
+  - DOMAIN-SUFFIX,mycloudnas.com
+  - DOMAIN-SUFFIX,fianw.online
+  - DOMAIN-SUFFIX,byd.com
+  - DOMAIN-SUFFIX,byd.auto
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,tesla.com
+  - DOMAIN-KEYWORD,myqnapcloud
+  - DOMAIN-SUFFIX,bydhaiyang.com
+  - DOMAIN-SUFFIX,my.synn.cc
+  - DOMAIN-SUFFIX,go.synn.cc
+  - DOMAIN-SUFFIX,stream-direct.synn.cc
+##Fian自定义直连区结束##
+
+
+# Epicgames
+  - DOMAIN-SUFFIX,ol.epicgames.com
+
+# Getui
+  - DOMAIN-SUFFIX,dizhensubao.getui.com
+
+# Google
+  - DOMAIN,dl.google.com
+  - DOMAIN-SUFFIX,googletraveladservices.com
+
+# Mozilla
+  - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+
+# Origin
+  - DOMAIN,origin-a.akamaihd.net
+
+# Tencent
+  - DOMAIN,fairplay.l.qq.com
+  - DOMAIN,livew.l.qq.com
+  - DOMAIN,vd.l.qq.com
+
+# Strava
+
+# Umeng
+  - DOMAIN,errlog.umeng.com
+  - DOMAIN,msg.umeng.com
+  - DOMAIN,msg.umengcloud.com
+
+# Miui 小米
+  - DOMAIN,tracking.miui.com
+
+# General
+  - DOMAIN,app.adjust.com
+  - DOMAIN,bdtj.tagtic.cn
+
+# Hypixel Network
+  - DOMAIN,rewards.hypixel.net
+
+# Koodo Mobile
+  - DOMAIN-SUFFIX,koodomobile.com
+  - DOMAIN-SUFFIX,koodomobile.ca
+  - DOMAIN,bdtj.tagtic.cn
+
+# Hypixel Network
+  - DOMAIN,rewards.hypixel.net
