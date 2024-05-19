@@ -1,4 +1,4 @@
 #syn
-payload
+payload:
   - DOMAIN-SUFFIX,stream.synn.cc
   - DOMAIN-SUFFIX,stream-zz.synn.cc
