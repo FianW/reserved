@@ -1,37 +1,37 @@
 #自用emby服务
 
 #treediagram
-DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX, 789.123456.al
 
 #nmemby
-DOMAIN-SUFFIX,film.ohhhh.org
-DOMAIN-SUFFIX,film.hovervan.org
+DOMAIN-SUFFIX, film.ohhhh.org
+DOMAIN-SUFFIX, film.hovervan.org
 
 #kakoemby
-DOMAIN-SUFFIX,kakoemby.xyz
+DOMAIN-SUFFIX, kakoemby.xyz
 
 #charon
-DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX, charontv.com
 
 #misakaf
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX, misakaf.org
 
 #野兽餐厅
-DOMAIN-SUFFIX,emby.mius.uk
-DOMAIN-SUFFIX,emby-us-v4.mius.uk
+DOMAIN-SUFFIX, emby.mius.uk
+DOMAIN-SUFFIX, emby-us-v4.mius.uk
 
 #ntrrr
-DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX, stream.ntrrr.top
 
 #aca emby
-DOMAIN-SUFFIX,emby.aca.best
-DOMAIN-SUFFIX,porn.aca.best
+DOMAIN-SUFFIX, emby.aca.best
+DOMAIN-SUFFIX, porn.aca.best
 
 #琴鸟
-DOMAIN-SUFFIX,lyrebirdemby.com
+DOMAIN-SUFFIX, lyrebirdemby.com
 
 #embyplus
-DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX, embyplus.org
 
 #大v影院
-DOMAIN-SUFFIX,su.viclub.top
+DOMAIN-SUFFIX, su.viclub.top
