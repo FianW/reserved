@@ -33,3 +33,6 @@ payload:
 
 #embyplus
   - DOMAIN-SUFFIX,embyplus.org
+
+#大v影院
+  - DOMAIN-SUFFIX,su.viclub.top
