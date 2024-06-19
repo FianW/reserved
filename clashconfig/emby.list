@@ -4,7 +4,6 @@
 DOMAIN-SUFFIX, 789.123456.al
 
 #nmemby
-DOMAIN-SUFFIX, film.ohhhh.org
 DOMAIN-SUFFIX, film.hovervan.org
 
 #kakoemby
@@ -17,8 +16,8 @@ DOMAIN-SUFFIX, charontv.com
 DOMAIN-SUFFIX, misakaf.org
 
 #野兽餐厅
-DOMAIN-SUFFIX, emby.mius.uk
 DOMAIN-SUFFIX, emby-us-v4.mius.uk
+DOMAIN-SUFFIX, emby-fr-v6.mius.uk
 
 #ntrrr
 DOMAIN-SUFFIX, stream.ntrrr.top
@@ -38,3 +37,6 @@ DOMAIN-SUFFIX, su.viclub.top
 
 #杰云
 DOMAIN-SUFFIX, user.jaycloud11111.top
+
+#江湖
+DOMAIN-SUFFIX, film.reddust.link
