@@ -37,7 +37,7 @@ payload:
   - DOMAIN-SUFFIX,su.viclub.top
 
 #杰云
-  - DOMAIN-SUFFIX,user.jaycloud11111.top
+  #- DOMAIN-SUFFIX,user.jaycloud11111.top
 
 #江湖
   - DOMAIN-SUFFIX,film.reddust.link
