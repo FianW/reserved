@@ -21,4 +21,4 @@ payload:
   - DOMAIN-SUFFIX,my.synn.cc
   - DOMAIN-SUFFIX,go.synn.cc
   - DOMAIN-SUFFIX,stream-direct.synn.cc
-  - DOMAIN-SUFFIX,user.jaycloud11111.top
+  #- DOMAIN-SUFFIX,user.jaycloud11111.top
