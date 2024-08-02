@@ -18,6 +18,8 @@ DOMAIN-SUFFIX, misakaf.org
 #野兽餐厅
 DOMAIN-SUFFIX, emby-us-v4.mius.uk
 DOMAIN-SUFFIX, emby-fr-v6.mius.uk
+DOMAIN-SUFFIX, emby-mica-us-v1.mius.uk
+DOMAIN-SUFFIX, emby-micax-ca-v2.mius.uk
 
 #ntrrr
 DOMAIN-SUFFIX, stream.ntrrr.top
