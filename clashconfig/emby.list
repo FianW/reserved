@@ -51,6 +51,7 @@ DOMAIN-SUFFIX, jellyfin.asia
 
 #阿拉丁
 DOMAIN-SUFFIX, emby.aladingnet.com
+IP-CIDR,104.238.221.68/32,no-resolve
 
 #非越
 DOMAIN-SUFFIX, cf.sfcj.org
