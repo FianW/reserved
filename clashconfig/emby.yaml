@@ -59,3 +59,6 @@ payload:
 
 #SYN
   - DOMAIN-SUFFIX,clip.synn.cc
+
+#AWA
+  - DOMAIN-SUFFIX,emby.awatv.de
