@@ -57,7 +57,7 @@ IP-CIDR,104.238.221.68/32,no-resolve
 DOMAIN-SUFFIX, cf.sfcj.org
 
 #SYN
-DOMAIN-SUFFIX, clip.synn.cc
+#DOMAIN-SUFFIX, clip.synn.cc
 
 #AWA
 DOMAIN-SUFFIX,emby.awatv.de
