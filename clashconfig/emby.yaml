@@ -62,3 +62,8 @@ payload:
 
 #AWA
   - DOMAIN-SUFFIX,emby.awatv.de
+
+#hka
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
+  - DOMAIN-SUFFIX,hka-emby1.aliz.work
+  - DOMAIN-SUFFIX,hka-emby2.aliz.work
