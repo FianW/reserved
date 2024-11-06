@@ -16,5 +16,5 @@ payload:
   - DOMAIN-SUFFIX,go.synn.cc
   - DOMAIN-SUFFIX,lingsu.cloudns.ch
   #syn emby
-  - DOMAIN-SUFFIX,clip.synn.cc
-  - DOMAIN-SUFFIX,clip.makima.online
+  #- DOMAIN-SUFFIX,clip.synn.cc
+  #- DOMAIN-SUFFIX,clip.makima.online
