@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,sadsafsfsafsadas.mius.uk
   - DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk
   - DOMAIN-SUFFIX,emby-mica-yxvm-hk-v4.mius.uk
+  - DOMAIN-SUFFIX,emby-mica-hk3-v4.mius.uk
 
 #ntrrr
   - DOMAIN-SUFFIX,stream.ntrrr.top
