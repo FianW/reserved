@@ -7,13 +7,10 @@ payload:
 #nmemby
   - DOMAIN-SUFFIX,film.hovervan.org
 
-#kakoemby
-  - DOMAIN-SUFFIX,kakoemby.xyz
-
 #charon
   - DOMAIN-SUFFIX,charontv.com
 
-#aca
+#aca&misakaf
   - DOMAIN-SUFFIX,misakaf.org
 
 #牢大餐厅
@@ -41,15 +38,11 @@ payload:
 #杰云
   - DOMAIN-SUFFIX,user.jaycloud11111.top
 
-#江湖
-  - DOMAIN-SUFFIX,jh.reddust.link
-
 #水母
   - DOMAIN-SUFFIX,jellyfin.asia
 
 #阿拉丁
   - DOMAIN-SUFFIX,emby.aladingnet.com
-  - IP-CIDR,104.238.221.68/32,no-resolve
 
 #非越
   - DOMAIN-SUFFIX,cf.sfcj.org
