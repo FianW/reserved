@@ -13,7 +13,7 @@ payload:
 #charon
   - DOMAIN-SUFFIX,charontv.com
 
-#misakaf
+#aca
   - DOMAIN-SUFFIX,misakaf.org
 
 #牢大餐厅
@@ -28,10 +28,6 @@ payload:
 
 #ntrrr
   - DOMAIN-SUFFIX,stream.ntrrr.top
-
-#aca emby
-  - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN-SUFFIX,porn.aca.best
 
 #琴鸟
   - DOMAIN-SUFFIX,lyrebirdemby.com
