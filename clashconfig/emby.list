@@ -6,13 +6,10 @@ DOMAIN-SUFFIX, 789.123456.al
 #nmemby
 DOMAIN-SUFFIX, film.hovervan.org
 
-#kakoemby
-DOMAIN-SUFFIX, kakoemby.xyz
-
 #charon
 DOMAIN-SUFFIX, charontv.com
 
-#aca
+#aca&misakaf
 DOMAIN-SUFFIX, misakaf.org
 
 #牢大餐厅
@@ -39,9 +36,6 @@ DOMAIN-SUFFIX, su.viclub.top
 
 #杰云
 DOMAIN-SUFFIX, user.jaycloud11111.top
-
-#江湖
-DOMAIN-SUFFIX, jh.reddust.link
 
 #水母
 DOMAIN-SUFFIX, jellyfin.asia
