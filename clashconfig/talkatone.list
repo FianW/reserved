@@ -10,7 +10,3 @@ IP-CIDR,69.46.75.0/24,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve
 IP-CIDR,205.164.56.29/24,no-resolve
 IP-CIDR,50.117.27.0/24,no-resolve
-
-#Textnow规则
-DOMAIN-SUFFIX,textnow.com
-DOMAIN-SUFFIX,textnow.me
