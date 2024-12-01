@@ -21,49 +21,40 @@ DOMAIN-SUFFIX,clip.synn.cc
 DOMAIN-SUFFIX,clip.makima.online
 ##Fian自定义直连区结束##
 
-
-# Epicgames
-DOMAIN-SUFFIX,ol.epicgames.com
-
-# Getui
-DOMAIN-SUFFIX,dizhensubao.getui.com
-
-# Google
-DOMAIN,dl.google.com
-DOMAIN-SUFFIX,googletraveladservices.com
-
-# Mozilla
-DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
-
-# Origin
-DOMAIN,origin-a.akamaihd.net
-
-# Tencent
-DOMAIN,fairplay.l.qq.com
-DOMAIN,livew.l.qq.com
-DOMAIN,vd.l.qq.com
-
-# Strava
-
-# Umeng
-DOMAIN,errlog.umeng.com
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
-
-# Miui 小米
-DOMAIN,tracking.miui.com
-
-# General
-DOMAIN,app.adjust.com
-DOMAIN,bdtj.tagtic.cn
-
-# Hypixel Network
-DOMAIN,rewards.hypixel.net
-
-# Koodo Mobile
-DOMAIN-SUFFIX,koodomobile.com
-DOMAIN-SUFFIX,koodomobile.ca
-DOMAIN,bdtj.tagtic.cn
-
-# Hypixel Network
-DOMAIN,rewards.hypixel.net
+#lan
+DOMAIN-SUFFIX,hiwifi.com
+DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,leike.cc
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN-SUFFIX,my.router
+DOMAIN-SUFFIX,p.to
+DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,router.ctc
+DOMAIN-SUFFIX,routerlogin.com
+DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,test.steampowered.com
+DOMAIN-SUFFIX,tplinkwifi.net
+DOMAIN-SUFFIX,tplogin.cn
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,wifi.cmcc
+DOMAIN-SUFFIX,zte.home
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.0.0.0/24,no-resolve
+IP-CIDR,192.0.2.0/24,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,192.88.99.0/24,no-resolve
+IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
+IP-CIDR,224.0.0.0/3,no-resolve
+IP-CIDR6,::/127,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,ff00::/8,no-resolve
