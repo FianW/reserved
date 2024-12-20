@@ -61,3 +61,6 @@ payload:
 
 #天南小筑
   - DOMAIN-SUFFIX,nanflix.net
+
+#saturday
+  - DOMAIN-SUFFIX,saturday.video
