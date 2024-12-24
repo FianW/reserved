@@ -1,6 +1,6 @@
 ##Fian自定义直连##
 payload:
-  - DOMAIN-SUFFIX,qnap.com
+  #- DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,qlink.to
   - DOMAIN-SUFFIX,qlinkto.cn
   - DOMAIN-SUFFIX,myqnapcloud.com
