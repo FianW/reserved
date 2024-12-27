@@ -19,8 +19,8 @@ payload:
   - DOMAIN-SUFFIX,tongxy.us.kg
   - DOMAIN-SUFFIX,ling.cc.ua
   #syn emby
-  - DOMAIN-SUFFIX,clip.synn.cc
-  - DOMAIN-SUFFIX,clip.makima.online
+  #- DOMAIN-SUFFIX,clip.synn.cc
+  #- DOMAIN-SUFFIX,clip.makima.online
 #lan
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,home.arpa
