@@ -65,6 +65,9 @@ DOMAIN-SUFFIX,nanflix.net
 #saturday
 DOMAIN-SUFFIX,saturday.video
 
-#emby-infuse
+#july
 DOMAIN,alist7.eu.org
 DOMAIN-SUFFIX,sharepoint.com
+
+#起点站
+DOMAIN-SUFFIX,free.28.al
