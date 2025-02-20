@@ -18,7 +18,7 @@ payload:
   - DOMAIN-SUFFIX,w9pns-3hd2e-7jdt3.biliblili.uk
   - DOMAIN-SUFFIX,9tp2a-4n2vj-5qdzw.biliblili.uk
   - DOMAIN-SUFFIX,n4byr-4nahh-ffd3j.biliblili.uk
-  - DOMAIN-SUFFIX,3vk5f-wutw6-4nsv2.biliblili.uk
+  #- DOMAIN-SUFFIX,3vk5f-wutw6-4nsv2.biliblili.uk
 
 #ntrrr
   - DOMAIN-SUFFIX,stream.ntrrr.top
