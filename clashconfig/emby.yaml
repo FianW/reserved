@@ -44,7 +44,9 @@ payload:
 
 #非越
   - DOMAIN-SUFFIX,cf.sfcj.org
-
+  - DOMAIN-SUFFIX,z.sfcj.org
+  - DOMAIN-SUFFIX,jg.sfcj.org
+  - DOMAIN-SUFFIX,ju.sfcj.org
 #SYN
   - DOMAIN-SUFFIX,clip.synn.cc
   - DOMAIN-SUFFIX,clip.makima.online
