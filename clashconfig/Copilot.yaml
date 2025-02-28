@@ -1,6 +1,4 @@
 payload:
-  # 2024-05-30 15:51:48
-  # Copilot
   - DOMAIN,api.githubcopilot.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot.microsoft.com
