@@ -1,7 +1,5 @@
 payload:
-  # 2024-10-10 14:36:12
-  # ChatGPT
-  - AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-eastus-),(DOMAIN-SUFFIX,webpubsub.azure.com))
+  - AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com))
   - AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,openaiapi-site.azureedge.net
