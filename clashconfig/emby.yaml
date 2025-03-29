@@ -75,3 +75,6 @@ payload:
 
 #起点站
   - DOMAIN-SUFFIX,free.28.al
+
+#ykk
+  - DOMAIN-SUFFIX,ykk.emby.moe
