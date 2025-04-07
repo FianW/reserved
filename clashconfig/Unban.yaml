@@ -22,6 +22,8 @@ payload:
   - DOMAIN-SUFFIX,clip.makima.online
   #alphaio emby
   - DOMAIN-SUFFIX,s.outong-valve.com
+  #saturday emby
+  - DOMAIN-SUFFIX,lite.saturday.video
 #lan
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,home.arpa
