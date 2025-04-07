@@ -64,7 +64,7 @@ payload:
   - DOMAIN-SUFFIX,nanflix.net
 
 #saturday
-  - DOMAIN-SUFFIX,saturday.video
+  - DOMAIN-SUFFIX,lite.saturday.video
 
 #july
   - DOMAIN,alist7.eu.org
