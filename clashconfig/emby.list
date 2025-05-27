@@ -40,6 +40,7 @@ DOMAIN-SUFFIX, jellyfin.asia
 #阿拉丁
 DOMAIN-SUFFIX, emby.aladingnet.com
 DOMAIN-SUFFIX,my.embylife.xyz
+DOMAIN-SUFFIX,ald.emby.moe
 
 #非越
 DOMAIN-SUFFIX,cf.sfcj.org
