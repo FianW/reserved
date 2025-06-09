@@ -38,10 +38,11 @@ DOMAIN-SUFFIX, user.jaycloud11111.top
 DOMAIN-SUFFIX, jellyfin.asia
 
 #阿拉丁
-DOMAIN-SUFFIX, emby.aladingnet.com
+DOMAIN-SUFFIX,emby.aladingnet.com
 DOMAIN-SUFFIX,my.embylife.xyz
 DOMAIN-SUFFIX,ald.emby.moe
 DOMAIN-SUFFIX,myzox.embylife.xyz
+DOMAIN-SUFFIX,myjellyfin.embylife.xyz
 
 #非越
 DOMAIN-SUFFIX,cf.sfcj.org
