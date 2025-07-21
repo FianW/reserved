@@ -86,3 +86,6 @@ DOMAIN-SUFFIX,ykk.emby.moe
 
 #msky
 DOMAIN-SUFFIX,5msky.com
+
+#sntp
+DOMAIN-SUFFIX,lite.cn2gias.uk
