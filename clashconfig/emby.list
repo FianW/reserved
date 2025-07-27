@@ -90,3 +90,6 @@ DOMAIN-SUFFIX,5msky.com
 #sntp
 DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,lite-v6.cn2gias.uk
+
+#shrek
+DOMAIN-SUFFIX,shrekmedia.org
