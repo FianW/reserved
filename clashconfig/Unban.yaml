@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,s.outong-valve.com
   #saturday emby
   #- DOMAIN-SUFFIX,lite.saturday.video
+  #kfc emby
+  - DOMAIN-SUFFIX,emby.v50.su
 #lan
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,home.arpa
