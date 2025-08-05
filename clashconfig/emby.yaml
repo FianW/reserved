@@ -95,4 +95,4 @@ payload:
   - DOMAIN-SUFFIX,shrekmedia.org
 
 #kfc
-  - DOMAIN-SUFFIX,kfc.v50.su:443
+  - DOMAIN-SUFFIX,kfc.v50.su
