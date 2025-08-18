@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,clip.makima.online
 #alphaio emby
 DOMAIN-SUFFIX,s.outong-valve.com
 #kfc emby
-DOMAIN-SUFFIX,emby.v50.su
+#DOMAIN-SUFFIX,emby.v50.su
 ##Fian自定义直连区结束##
 
 #lan
@@ -48,6 +48,10 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
+
+#apple
+IP-CIDR,17.0.0.0/8,no-resolve
+
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
