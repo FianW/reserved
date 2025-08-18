@@ -26,7 +26,7 @@ payload:
   #saturday emby
   #- DOMAIN-SUFFIX,lite.saturday.video
   #kfc emby
-  - DOMAIN-SUFFIX,emby.v50.su
+  #- DOMAIN-SUFFIX,emby.v50.su
 #lan
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,home.arpa
@@ -47,6 +47,9 @@ payload:
   - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,wifi.cmcc
   - DOMAIN-SUFFIX,zte.home
+  #apple
+  - IP-CIDR,17.0.0.0/8,no-resolve
+  
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
   - IP-CIDR,127.0.0.0/8,no-resolve
