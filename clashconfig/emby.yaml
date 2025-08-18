@@ -96,3 +96,6 @@ payload:
 
 #kfc
   - DOMAIN-SUFFIX,kfc.v50.su
+
+#临境
+  - DOMAIN-SUFFIX,emby.liminalnet.com
