@@ -97,3 +97,6 @@ DOMAIN-SUFFIX,shrekmedia.org
 #kfc
 DOMAIN-SUFFIX,kfc.v50.su
 #DOMAIN-SUFFIX,emby.v50.su
+
+#临境
+DOMAIN-SUFFIX,emby.liminalnet.com
